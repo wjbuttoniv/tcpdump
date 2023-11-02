@@ -1,4 +1,4 @@
-Analyzing Network Traffic for Potential Intruders
+# Analyzing Network Traffic for Potential Intruders
 
 This project aims to showcase the process of capturing and analyzing network traffic to detect potential intruders within our network. While the original document focused on a step-by-step "how-to" guide, we will provide a more explanatory overview of the process and its purpose.
 Introduction
@@ -23,10 +23,15 @@ Step 2: Simulating the Attack
 
 To create a comprehensive packet capture, we run the simulation multiple times. This allows us to gather a more complete set of data to analyze.
 
+![thebackdoor](https://github.com/wjbuttoniv/tcpdump/blob/main/tcpdump/Pasted%20image%2020231101112331.png?raw=true)
+
 Step 3: Analyzing the Captured Data
 
 Once the data is captured, we can analyze it to determine if someone attempted to breach our network. To make this process more manageable, we will open the captured data in Wireshark, a network protocol analyzer that makes it easier to interpret the traffic.
-Interpretation
+
+![tcpdumpread](https://github.com/wjbuttoniv/tcpdump/blob/main/tcpdump/Pasted%20image%2020231101112549.png?raw=true)
+
+![wireshark](https://github.com/wjbuttoniv/tcpdump/blob/main/tcpdump/Pasted%20image%2020231101112855.png?raw=true)
 
 In a real-world scenario involving an external attack, the host IP address recorded in the captured traffic would likely be different from our own. By capturing and analyzing this data, we can investigate whether someone tried to engage in malicious activities within our network.
 Summary
