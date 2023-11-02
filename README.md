@@ -8,7 +8,7 @@ Capturing Network Traffic
 
 Step 1: Preparing the tcpdump Statement
 
-[!prepstatement](https://github.com/wjbuttoniv/tcpdump/blob/main/tcpdump/Pasted%20image%2020231101111942.png?raw=true)
+![prepstatement](https://github.com/wjbuttoniv/tcpdump/blob/main/tcpdump/Pasted%20image%2020231101111942.png?raw=true)
 
 We start by preparing a tcpdump command to capture network traffic. This command will monitor a specific port, and we will save the captured data to a file for analysis. Here's a breakdown of the command:
 
