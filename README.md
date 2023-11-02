@@ -25,7 +25,7 @@ To create a comprehensive packet capture, we run the simulation multiple times. 
 
 ![thebackdoor](https://github.com/wjbuttoniv/tcpdump/blob/main/tcpdump/Pasted%20image%2020231101112331.png?raw=true)
 
-Step 3: Analyzing the Captured Data
+### Step 3: Analyzing the Captured Data
 
 Once the data is captured, we can analyze it to determine if someone attempted to breach our network. To make this process more manageable, we will open the captured data in Wireshark, a network protocol analyzer that makes it easier to interpret the traffic.
 
