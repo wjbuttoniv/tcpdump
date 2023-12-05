@@ -1,6 +1,6 @@
 # Analyzing Network Traffic for Potential Intruders
 
-This project aims to showcase the process of capturing and analyzing network traffic to detect potential intruders within our network. \
+This project aims to showcase the process of capturing and analyzing network traffic to detect potential intruders within our network. 
 
 In this project, we will simulate a scenario where an unauthorized user attempts to gain access to our network. Our goal is to capture and analyze their network traffic. To do this, we will use SSH on our local machine to create a controlled environment for our simulation.
 
